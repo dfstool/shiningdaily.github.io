@@ -1,0 +1,1 @@
+# shiningdaily.github.io
