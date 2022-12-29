@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5e1937d8.css",
-    "main.js": "/static/js/main.c9293c5a.js",
-    "static/media/ChainDB.txt": "/static/media/ChainDB.94ede7e75a62e3bba850.txt",
+    "main.js": "/static/js/main.756db04e.js",
+    "static/media/ChainDB.txt": "/static/media/ChainDB.845431c257026def51ec.txt",
     "static/media/typer.png": "/static/media/typer.6b0a4626ccbb44a32fd3.png",
     "static/media/dfs.png": "/static/media/dfs.08dbc30440863340aee5.png",
     "static/media/shiningdaily.png": "/static/media/shiningdaily.6a36d71910c56c736af6.png",
@@ -15,6 +15,6 @@
   },
   "entrypoints": [
     "static/css/main.5e1937d8.css",
-    "static/js/main.c9293c5a.js"
+    "static/js/main.756db04e.js"
   ]
 }
