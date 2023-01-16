@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.5e1937d8.css",
-    "main.js": "/static/js/main.cea9c56e.js",
+    "main.js": "/static/js/main.9c389256.js",
     "static/js/440.e7c252da.chunk.js": "/static/js/440.e7c252da.chunk.js",
     "static/js/58.045b0df5.chunk.js": "/static/js/58.045b0df5.chunk.js",
-    "static/media/ChainDB.txt": "/static/media/ChainDB.1c7c13020d9c45a7920f.txt",
+    "static/media/ChainDB.txt": "/static/media/ChainDB.299ba76f717d9c5bad7e.txt",
     "static/media/typer.png": "/static/media/typer.6b0a4626ccbb44a32fd3.png",
     "static/media/dfs.png": "/static/media/dfs.08dbc30440863340aee5.png",
     "static/media/shiningdaily.png": "/static/media/shiningdaily.6a36d71910c56c736af6.png",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.5e1937d8.css",
-    "static/js/main.cea9c56e.js"
+    "static/js/main.9c389256.js"
   ]
 }
