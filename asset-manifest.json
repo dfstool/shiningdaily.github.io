@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.5e1937d8.css",
-    "main.js": "/static/js/main.9c389256.js",
+    "main.js": "/static/js/main.5b4bbaad.js",
     "static/js/440.e7c252da.chunk.js": "/static/js/440.e7c252da.chunk.js",
     "static/js/58.045b0df5.chunk.js": "/static/js/58.045b0df5.chunk.js",
-    "static/media/ChainDB.txt": "/static/media/ChainDB.299ba76f717d9c5bad7e.txt",
+    "static/media/ChainDB.txt": "/static/media/ChainDB.47cbc2b222b2134ffdeb.txt",
     "static/media/typer.png": "/static/media/typer.6b0a4626ccbb44a32fd3.png",
     "static/media/dfs.png": "/static/media/dfs.08dbc30440863340aee5.png",
     "static/media/shiningdaily.png": "/static/media/shiningdaily.6a36d71910c56c736af6.png",
@@ -13,10 +13,11 @@
     "static/media/tag.png": "/static/media/tag.a0e3f1d383f52d2ae6e4.png",
     "static/media/yfc.png": "/static/media/yfc.e5fff513ab2c24683393.png",
     "static/media/shining.png": "/static/media/shining.988b09ee7f7647f72145.png",
+    "static/media/telegram.svg": "/static/media/telegram.2814139172aad1d9f432f6b946653c12.svg",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.5e1937d8.css",
-    "static/js/main.9c389256.js"
+    "static/js/main.5b4bbaad.js"
   ]
 }
