@@ -1,0 +1,180 @@
+body {
+  margin: 0;
+}
+.demo-index {
+  padding: 20px 16px;
+  box-sizing: border-box;
+  min-height: 100vh;
+  background: #fff;
+}
+.demo-nav-title {
+  margin: 24px 0 8px 12px;
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 14px;
+  font-weight: 400;
+}
+.demo-nav-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.demo-nav-link {
+  position: relative;
+  display: flex;
+  margin-bottom: 12px;
+  padding: 10px 20px;
+  background: var(--gray-7);
+  border-radius: 99px;
+  transition: 0.3s;
+  color: var(--gray-1);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration: none;
+}
+.demo-nav-link:hover {
+  background: var(--gray-6);
+}
+.demo-page {
+  min-height: 100vh;
+  background: var(--gray-6);
+}
+.demo-page[data-page='avatar'] .Avatar + .Avatar {
+  margin-left: 16px;
+}
+.demo-page[data-page='button'] .Btn + .Btn {
+  margin-left: 16px;
+}
+.demo-page[data-page='card'] .demo-section {
+  background: var(--gray-6);
+}
+.demo-page[data-page='card'] .Card + .Card {
+  margin-top: 16px;
+}
+.demo-page[data-page="flex"] p {
+  margin: 6px;
+  padding: 6px;
+  border-radius: 4px;
+  background: #f4f3ef;
+  text-align: center;
+  font-size: 14px;
+}
+.demo-page[data-page='goods'] .demo-section {
+  background: var(--gray-6);
+}
+.demo-page[data-page='search'] .demo-section {
+  background: var(--gray-6);
+}
+.demo-header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 48px;
+  margin-bottom: 12px;
+  background: #fff;
+}
+.demo-header-back {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+}
+.demo-header-back svg {
+  display: block;
+  width: 24px;
+  height: 24px;
+  fill: #333;
+}
+.demo-header-title {
+  margin: 0;
+  font-size: 18px;
+}
+.demo-section {
+  padding: 16px;
+  margin-bottom: 8px;
+}
+.demo-section.bg-white {
+  background: var(--white);
+}
+.demo-section.bg-gray {
+  background: #fafafa;
+}
+.demo-section-title {
+  margin: 10px 0;
+  color: rgba(0, 0, 0, 0.65);
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+}
+.demo-row {
+  margin-bottom: 12px;
+}
+.icon-box {
+  display: inline-block;
+  width: 108px;
+  text-align: center;
+  font-size: 32px;
+}
+.icon-box span {
+  display: block;
+  font-size: 12px;
+}
+.guess-you-aside {
+  width: 72px ;
+  padding: 12px 14px;
+  box-sizing: border-box;
+  background: #FAFAFA;
+}
+.guess-you-aside h1 {
+  margin: 8px 0;
+  color: #424754;
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 1.1;
+  text-align: center;
+}
+.guess-you-aside h1::first-line {
+  color: var(--brand-1);
+}
+.skill-cards .Card {
+  width: 72px;
+  height: 72px;
+  margin-bottom: 5px;
+}
+.skill-cards .CardTitle {
+  padding: 10px 8px;
+}
+.skill-cards .CardTitle-title {
+  font-size: 14px;
+}
+.skill-cards .CardText {
+  padding: 2px 8px;
+  font-size: 12px;
+}
+.OrdderSelector .Popup-dialog {
+  background: var(--gray-7);
+}
+.OrdderSelector .Popup-body {
+  padding: 0 6px 9px;
+}
+.OrderGroup-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 12px 0;
+}
+.OrderGroup-header h3 {
+  margin: 0;
+  font-size: 16px;
+}
+.OrderGroup-actions {
+  padding: 0 12px 12px;
+  text-align: right;
+}
+.OrderGroup-actions .Btn {
+  min-width: 86px;
+  margin-left: 9px;
+}
+.OrderGroup-status {
+  color: var(--highlight-1);
+  font-size: 14px;
+}

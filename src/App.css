@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+@import 'assets/css/base.min.css';
+@import '@chatui/core/dist/index.css';
+
+.main {
+  max-width: 480px;
+  margin: auto;
+}
+
+/*
+@chatui/core/dist/index.css会引入display: hidden，这里强制去掉
+当进ChatUI时，才将其设置为hidden，关掉时则为auto
+*/
+body {
+  overflow: auto;
+}
